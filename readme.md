@@ -57,7 +57,5 @@ MIT
 
 ---
 
-> Email [carloseabade@gmail.com](mailto:carloseabade@gmail.com)
-> GitHub [@carloseabade](https://github.com/carloseabade)
-> Twitter [@carloseabade](https://twitter.com/carloseabade)
+> Email [carloseabade@gmail.com](mailto:carloseabade@gmail.com) | GitHub [@carloseabade](https://github.com/carloseabade) | Twitter [@carloseabade](https://twitter.com/carloseabade)
 
